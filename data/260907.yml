@@ -5,7 +5,7 @@ about:
   head: 41a00ac
   archived: false
   latestVersion: "v0.11.0"
-  collectedAt: 2026-09-07T05:30:23Z
+  collectedAt: 2026-09-07T18:55:01Z
 timeline:
   created: 2023-01-28
   lastCommit: 2026-08-06
@@ -80,7 +80,7 @@ total:
   commit: 257
 ---
 path: /home/runner/.x-repo/github.com/jhheider/semverator
-collectedAt: 2026-09-07T05:30:23Z
+collectedAt: 2026-09-07T18:55:06Z
 loc:
   Rust:
     code: 1386
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:30:24+00:00
+  collectedAt: 2026-09-07T18:55:13+00:00
   platform:
     darwin/arm64:
       name:  semverator-macos-aarch64.tar.gz
