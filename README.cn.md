@@ -4,13 +4,24 @@
 
 Semantic version comparison and range resolution — CLI and Rust library
 
-![semverator](https://repo.x-cmd.io/semverator.svg)
+![semverator](https://repo.x-cmd.io/semverator.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install semverator
 ```
+
+## 代码洞察
+
+合计: **1,458** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 1,386 | 34 | 254 | 19 |
+| Toml | 67 | 13 | 11 | 3 |
+| Yaml | 5 | 13 | 0 | 1 |
+| Markdown | 0 | 185 | 69 | 2 |
 
 ## 源代码
 
@@ -22,7 +33,6 @@ x install semverator
 - **最新版本**: `v0.11.0` (2026-08-06)
 - **最近提交**: 2026-08-06
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-08-06T23:22:27Z
 
 ## 流行度
 
@@ -37,19 +47,21 @@ x install semverator
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 2 | 10 | 1 | 0 | 0 | 12 |
 | 90d | 2026-06-12 | 2 | 22 | 1 | 0 | 0 | 25 |
+| last180d | 2026-03-14 | 2 | 26 | 1 | 0 | 0 | 28 |
 | 360d | 2025-09-15 | 2 | 52 | 1 | 0 | 0 | 55 |
+| last720d | 2024-09-20 | 9 | 106 | 1 | 2 | 0 | 220 |
 
-## 代码规模
+## Release 资产
 
-合计: **1,458** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 1,386 | 34 | 254 | 19 |
-| Toml | 67 | 13 | 11 | 3 |
-| Yaml | 5 | 13 | 0 | 1 |
-| Markdown | 0 | 185 | 69 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [semverator-linux-aarch64.tar.gz](https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-linux-aarch64.tar.gz) | 1.1 MiB | `native/linux/arm64` |
+| [semverator-linux-x86_64.tar.gz](https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-linux-x86_64.tar.gz) | 1.0 MiB | `native/linux/x64` |
+| [semverator-macos-aarch64.tar.gz](https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-macos-aarch64.tar.gz) | 856.2 KiB | `native/darwin/arm64` |
+| [semverator-macos-x86_64.tar.gz](https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-macos-x86_64.tar.gz) | 915.1 KiB | `native/darwin/x64` |
+| [semverator-windows-x86_64.zip](https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-windows-x86_64.zip) | 826.2 KiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -60,4 +72,4 @@ semverator 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:28:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:49:14Z._
