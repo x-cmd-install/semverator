@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1054605,
       "digest": "sha256:d65a326723e50757955b870d2033d72bdef12a0998e821fcb06c88e46e73cda8",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-06T23:35:36Z",
       "updated_at": "2026-08-06T23:35:36Z",
       "browser_download_url": "https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-linux-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 846014,
       "digest": "sha256:bff880093122aad77193ccd4840b86de95e032c1dc48df3db087a703a4f04a87",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-06T23:40:09Z",
       "updated_at": "2026-08-06T23:40:09Z",
       "browser_download_url": "https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-windows-x86_64.zip"
