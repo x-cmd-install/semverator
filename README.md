@@ -40,18 +40,18 @@ Total: **1,458** lines of code across **25** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 112 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 258
+- **Releases**: 24 · **Merged PRs**: 112 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 258
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-22 | 2 | 4 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-22 | 2 | 21 | 0 | 0 | 0 | 24 |
-| last180d | 2026-03-24 | 2 | 26 | 0 | 0 | 0 | 29 |
-| 360d | 2025-09-25 | 2 | 50 | 0 | 0 | 0 | 51 |
-| last720d | 2024-09-30 | 9 | 107 | 0 | 2 | 0 | 221 |
+| 30d | 2026-08-22 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-23 | 2 | 4 | 1 | 0 | 0 | 3 |
+| 90d | 2026-06-23 | 2 | 21 | 1 | 0 | 0 | 24 |
+| last180d | 2026-03-25 | 2 | 26 | 1 | 0 | 0 | 29 |
+| 360d | 2025-09-26 | 2 | 50 | 1 | 0 | 0 | 51 |
+| last720d | 2024-10-01 | 9 | 107 | 1 | 2 | 0 | 221 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for semverator lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:43:24Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:55:33Z._
