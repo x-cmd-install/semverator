@@ -31,7 +31,7 @@ Total: **1,458** lines of code across **25** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.11.0` (2026-08-06)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-28
 - **Assets in release**: 5
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **1,458** lines of code across **25** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 113 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 260
+- **Releases**: 24 · **Merged PRs**: 114 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-07-30 | 2 | 3 | 1 | 0 | 0 | 3 |
-| 90d | 2026-06-30 | 2 | 20 | 1 | 0 | 0 | 19 |
-| last180d | 2026-04-01 | 2 | 27 | 1 | 0 | 0 | 29 |
-| 360d | 2025-10-03 | 2 | 49 | 1 | 0 | 0 | 52 |
-| last720d | 2024-10-08 | 9 | 108 | 1 | 2 | 0 | 223 |
+| 30d | 2026-08-30 | 0 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-31 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-01 | 2 | 21 | 0 | 0 | 0 | 20 |
+| last180d | 2026-04-02 | 2 | 28 | 0 | 0 | 0 | 30 |
+| 360d | 2025-10-04 | 2 | 50 | 0 | 0 | 0 | 53 |
+| last720d | 2024-10-09 | 9 | 109 | 0 | 2 | 0 | 225 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for semverator lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:11:13Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:22:40Z._
