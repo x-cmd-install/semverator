@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1107400,
       "digest": "sha256:f098f1954ad34bd3529e6605074e4377d0e1f84e24d1000eb14d6c33da8e2c0c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-06T23:35:38Z",
       "updated_at": "2026-08-06T23:35:38Z",
       "browser_download_url": "https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-linux-aarch64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1054605,
       "digest": "sha256:d65a326723e50757955b870d2033d72bdef12a0998e821fcb06c88e46e73cda8",
-      "download_count": 49,
+      "download_count": 53,
       "created_at": "2026-08-06T23:35:36Z",
       "updated_at": "2026-08-06T23:35:36Z",
       "browser_download_url": "https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-linux-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 937050,
       "digest": "sha256:eb5c06d70ab10606617c2d91b8ac6bff8c78e79c96bee3fb3ffb95d5330b4c2d",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-06T23:35:24Z",
       "updated_at": "2026-08-06T23:35:24Z",
       "browser_download_url": "https://github.com/jhheider/semverator/releases/download/v0.11.0/semverator-macos-x86_64.tar.gz"
