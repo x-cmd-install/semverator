@@ -46,12 +46,12 @@ Total: **1,458** lines of code across **25** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-17 | 0 | 4 | 0 | 0 | 0 | 5 |
-| last180d | 2026-05-19 | 2 | 28 | 0 | 0 | 0 | 30 |
-| 360d | 2025-11-20 | 2 | 48 | 0 | 0 | 0 | 49 |
-| last720d | 2024-11-25 | 9 | 111 | 0 | 2 | 0 | 229 |
+| 30d | 2026-10-17 | 0 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 0 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-18 | 0 | 4 | 0 | 0 | 0 | 5 |
+| last180d | 2026-05-20 | 2 | 28 | 0 | 0 | 0 | 30 |
+| 360d | 2025-11-21 | 2 | 48 | 0 | 0 | 0 | 49 |
+| last720d | 2024-11-26 | 9 | 111 | 0 | 2 | 0 | 229 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for semverator lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:17:18Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:44:58Z._
